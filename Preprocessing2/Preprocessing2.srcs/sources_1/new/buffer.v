@@ -25,4 +25,4 @@ module buffer(
     );
 endmodule
 
-//trial
+//tria
