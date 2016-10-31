@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.sim/sim_1/impl/timing/testbench_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pll1
+INFO: [VRFC 10-311] analyzing module pll1_pll1_clk_wiz
+INFO: [VRFC 10-311] analyzing module preprocessing_top
+INFO: [VRFC 10-311] analyzing module pulse_generator
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sources_1/new/shift_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sources_1/new/pulse_generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pulse_generator
+WARNING: [VRFC 10-1195] overwriting previous definition of module pulse_generator [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sources_1/new/pulse_generator.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2458] undeclared symbol clk105, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:38]
+INFO: [VRFC 10-2458] undeclared symbol clk210p, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:39]
+INFO: [VRFC 10-2458] undeclared symbol clk10, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:40]
+INFO: [VRFC 10-2458] undeclared symbol shift_out, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:49]
+INFO: [VRFC 10-2458] undeclared symbol start_recording, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:51]
+INFO: [VRFC 10-2458] undeclared symbol read_data, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:53]
+INFO: [VRFC 10-2458] undeclared symbol shift_reg_reset, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:54]
+INFO: [VRFC 10-2458] undeclared symbol sync, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:67]
+INFO: [VRFC 10-2458] undeclared symbol cnv, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:69]
+INFO: [VRFC 10-2458] undeclared symbol sck, assumed default net type wire [E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.srcs/sim_1/new/testbench.v:70]

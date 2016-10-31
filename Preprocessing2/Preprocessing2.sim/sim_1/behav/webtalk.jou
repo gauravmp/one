@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sun Oct 30 21:16:53 2016
+# Process ID: 14344
+# Current directory: E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.sim/sim_1/behav/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.sim/sim_1/behav/webtalk.log
+# Journal file: E:/HASP/GRID Redesign/Code/Preprocessing2/Preprocessing2.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source E:/HASP/GRID -notrace
